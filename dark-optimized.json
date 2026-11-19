@@ -1,0 +1,16 @@
+{
+ "name": "Dark Optimized",
+ "dark": true,
+ "colors": {
+  "background": "#363636",
+  "foreground": "#f0f0f0",
+  "primary": "#4aa3ff",
+  "card": "#3e3e3e",
+  "muted": "#444444",
+  "border": "#555555",
+  "success": "#89d185",
+  "warning": "#e0b83c",
+  "destructive": "#ff6b6b",
+  "code": "#e0a98f"
+ }
+}
